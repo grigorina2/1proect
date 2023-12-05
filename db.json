@@ -25,11 +25,13 @@
   "products": [
     {
       "id": 1,
-      "name": "Got shop",
-      "description": "Slipknot maiou",
-      "price": 205,
+      "name": "Chisinau de seara",
+      "description": "Ciocolata cu prune",
+      "price": 92,
       "author_id": 1,
-      "photo_url": "https://static.posters.cz/image/750/slipknot-the-gray-chapter-star-i155848.jpg"},
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmaoNA34D7Uj4VfI-01L5g8jgOd6aj-sGRTXkjKBl-VA&s"
+    },
+
     {
       "id": 2,
       "name": "Arduino UNO",
