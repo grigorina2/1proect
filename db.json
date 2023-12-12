@@ -34,7 +34,7 @@
 
     {
       "id": 2,
-      "name": "Tipe o Negative",
+      "name": "Type o Negative",
       "description": "Tipe o Negative- maiou",
       "price": 180,
       "author_id": 3,
@@ -42,7 +42,7 @@
     },
     {
       "id": 3,
-      "name": "Tipe o Negative",
+      "name": "Type o Negative",
       "description": "Tipe o Negative- maiou",
       "price": 300,
       "author_id": 2,
